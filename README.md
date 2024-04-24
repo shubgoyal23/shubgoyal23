@@ -6,12 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=27F724&random=false&width=435&lines=I+work+in+React+js;I+work+in+Node+js;I+work+in+Next+js" alt="Typing SVG" /></a>
 </div>
 
-
-
-
-- 📫 How to reach me *alipakkr24@gmail.com*
-- My Portfolio *https://alipakkr.github.io/*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubgoyal23" target="blank">Linkedin</a>
@@ -26,7 +20,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alipakkr&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubgoyal23&theme=aura">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubgoyal23&theme=aura">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubgoyal23&theme=aura&utcOffset=8">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubgoyal23&theme=aura">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubgoyal23&theme=aura&utcOffset=8">
 </p>
 </div>
