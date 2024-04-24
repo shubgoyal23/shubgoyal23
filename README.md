@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=27F724&random=false&width=435&lines=I+work+in+React+js;I+work+in+Node+js;I+work+in+Next+js" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img width="300px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=27F724&random=false&width=435&lines=I+work+in+React+js;I+work+in+Node+js;I+work+in+Next+js" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
