@@ -17,7 +17,7 @@
 <div>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alipakkr&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubgoyal23&theme=aura">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubgoyal23&theme=aura">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubgoyal23&theme=aura">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubgoyal23&theme=aura">
