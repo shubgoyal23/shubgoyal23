@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubgoyal23" target="blank">Linkedin</a>
-<a href="mailto:goyalshubham@outlook.in" target="blank">Email</a>
-<a href="https://linkedin.com/in/shubgoyal23" target="blank">Portfolio</a>
+<a href="mailto:hello@shubhamgoyal.dev" target="blank">Email</a>
+<a href="https://shubhamgoyal.dev" target="blank">Portfolio</a>
 </p>
 
 
