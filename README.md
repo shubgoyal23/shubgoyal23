@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Shubham Goyal</h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <div align="center">
-
+  <p>I am a passionate fullstack developer with expertise in GoLang, Node.js, and Python, combined with a strong foundation in database management and API design. I thrive on solving complex problems, optimizing system performance, and building scalable web applications. I am always eager to learn and stay updated with the latest technologies to deliver efficient, reliable, and innovative solutions.</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
